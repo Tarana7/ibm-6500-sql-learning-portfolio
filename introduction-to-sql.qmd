@@ -120,3 +120,9 @@ SQL could support marketing analytics and my CEP by making it easier to retrieve
 ## What concepts or commands do you expect to review again in the future?
 
 I expect to review `SELECT`, `FROM`, `DISTINCT`, and aliases as I begin writing more complicated queries. I will also want to review database organization, data types, and differences between SQL systems. These introductory concepts will be important as I move into the Introduction to BigQuery and Intermediate SQL courses.
+
+# Appendix: Publication Links
+
+- [GitHub Repository](https://github.com/tarana7/ibm-6500-sql-learning-portfolio)
+
+- [Published Introduction to SQL Report](https://tarana7.github.io/ibm-6500-sql-learning-portfolio/introduction-to-sql.html)
