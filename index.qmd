@@ -1,0 +1,21 @@
+---
+title: "IBM 6500 SQL Learning Portfolio"
+author: "Tim Arana"
+format:
+  html:
+    toc: true
+    embed-resources: true
+---
+
+# IBM 6500 SQL Learning Portfolio
+
+**Student:** Tim Arana  
+**Course:** IBM 6500
+
+This portfolio contains my DataCamp course-completion evidence and learning notes for SQL and BigQuery. It will serve as a reference for future coursework and my MSDM Culminating Experience Project (CEP).
+
+## Reports
+
+- [Introduction to SQL](introduction-to-sql.html)
+- Introduction to BigQuery *(to be completed)*
+- Intermediate SQL *(to be completed)*
