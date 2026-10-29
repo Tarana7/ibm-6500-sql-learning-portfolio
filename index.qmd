@@ -16,6 +16,8 @@ This portfolio contains my DataCamp course-completion evidence and learning note
 
 ## Reports
 
+This portfolio contains my completed DataCamp coursework and learning notes for SQL and BigQuery.
+
 - [Introduction to SQL](introduction-to-sql.html)
 - [Introduction to BigQuery](introduction-to-bigquery.html)
-- Intermediate SQL (to be completed)
+- [Intermediate SQL](intermediate-sql.html)

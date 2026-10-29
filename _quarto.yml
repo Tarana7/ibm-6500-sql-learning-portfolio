@@ -12,6 +12,8 @@ website:
         text: Introduction to SQL
       - href: introduction-to-bigquery.qmd
         text: Introduction to BigQuery
+      - href: intermediate-sql.qmd
+        text: Intermediate SQL
 
 format:
   html:
